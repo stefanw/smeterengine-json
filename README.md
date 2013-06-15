@@ -1,0 +1,3 @@
+# Smeter-JSON
+
+License: MIT
